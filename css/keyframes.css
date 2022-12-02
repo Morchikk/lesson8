@@ -1,0 +1,36 @@
+@keyframes jet1 {
+  from {
+    top: 0;
+    left: 0;
+  }
+  to {
+    top: 0;
+    left: 70%;
+  }
+}
+@keyframes panzer1 {
+  from {
+    top: 65%;
+    left: 0;
+  }
+  to {
+    top: 65%;
+    left: 70%;
+  }
+}
+@keyframes bomber {
+  from {
+    top: 20%;
+    left: 70%;
+  }
+  to {
+    top: 20%;
+    left: 0;
+  }
+}
+ @keyframes helicopter {
+        from {bottom: 75px;}
+        50% {bottom: 100px !important;}
+        to {bottom: 300px;}
+      }
+  }
